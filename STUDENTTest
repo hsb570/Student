@@ -1,3 +1,4 @@
 public class Student{
-
+Student std=new Student();
+std.setstudName("Ram");
 }
